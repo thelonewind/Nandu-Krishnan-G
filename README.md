@@ -13,6 +13,7 @@ that are used in industry.
 ### Programming
 - Python (data processing, scripting)
 - SQL (queries, joins, aggregations)
+- Java (Fundementals)
 
 ### Data & Analytics
 - Data cleaning and transformation
